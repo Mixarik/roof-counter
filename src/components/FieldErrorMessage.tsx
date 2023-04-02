@@ -1,5 +1,6 @@
-import cx from 'classnames';
+import React from 'react';
 
+import cx from 'classnames';
 import styles from './FieldErrorMessage.module.scss';
 
 type FormErrorMessageProps = {
