@@ -1,0 +1,14 @@
+.select:required:invalid {
+  color: #5f6368;
+}
+
+.select option[value=""][disabled] {
+  display: none;
+}
+
+.select option {
+  font-size: 20px;
+  color: black;
+}
+
+/*# sourceMappingURL=SelectField.module.css.map */

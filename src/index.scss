@@ -1,0 +1,20 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+
+:root {
+	--calculator-red: #de1f1f;
+	--calculator-secondary: #1b7fbfff;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	outline: none;
+	font-family: 'Nunito', Roboto, system-ui, Tahoma, sans-serif;
+	box-sizing: border-box;
+	a {
+		:hover {
+			text-decoration: none;
+		}
+	}
+}

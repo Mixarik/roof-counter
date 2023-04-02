@@ -1,0 +1,22 @@
+.header {
+	padding-left: 10%;
+	width: 100%;
+	background-color: #343a40;
+	height: 45px;
+	font-weight: 100;
+	border-bottom: 3px solid #259e0d;
+	color: white;
+	margin-bottom: 20px;
+	span {
+		cursor: pointer;
+	}
+}
+.link {
+	text-decoration: none;
+	color: white;
+	margin-right: 25px;
+	&:hover {
+		text-decoration: none;
+		color: darken(white, 8%);
+	}
+}
