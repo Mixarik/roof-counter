@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54465798-558a-4449-83da-936beef91e50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FieldErrorMessage.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FieldErrorMessage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FormGroup.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InputField.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InputField.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InputField.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InputField.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Label.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Label.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Label.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Label.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ResultTable.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ResultTable.enum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ResultTable.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ResultTable.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Router.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SelectField.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SelectField.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SelectField.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SelectField.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/declaration.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/calculator/Calculator.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/calculator/Calculator.constants.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/calculator/Calculator.enums.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/calculator/Calculator.helpers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/calculator/Calculator.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/calculator/Calculator.types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/calculator/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,8 +127,16 @@
       <workItem from="1680366331184" duration="17929000" />
       <workItem from="1680384632837" duration="541000" />
       <workItem from="1680420878961" duration="318000" />
-      <workItem from="1680461626611" duration="3563000" />
+      <workItem from="1680461626611" duration="4018000" />
     </task>
+    <task id="LOCAL-00001" summary="done!!">
+      <created>1680465390396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680465390397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +149,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="done!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="done!!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="641" y="126" key="#ESLint" timestamp="1680119656472">
@@ -215,6 +165,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="493" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1680207166201" />
+    <state x="393" y="5" key="CommitChangelistDialog2" timestamp="1680465680387">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1680465680387" />
     <state x="405" y="191" key="EditFileWatcherDialog" timestamp="1680120371661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -223,22 +177,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1680384664820" />
-    <state width="1515" height="141" key="GridCell.Tab.0.bottom" timestamp="1680464093024">
+    <state width="1515" height="170" key="GridCell.Tab.0.bottom" timestamp="1680465682388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="141" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1680464093024" />
-    <state width="1515" height="141" key="GridCell.Tab.0.center" timestamp="1680464093024">
+    <state width="1515" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1680465682388" />
+    <state width="1515" height="170" key="GridCell.Tab.0.center" timestamp="1680465682388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="141" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1680464093024" />
-    <state width="1515" height="141" key="GridCell.Tab.0.left" timestamp="1680464093024">
+    <state width="1515" height="170" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1680465682388" />
+    <state width="1515" height="170" key="GridCell.Tab.0.left" timestamp="1680465682388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="141" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1680464093024" />
-    <state width="1515" height="141" key="GridCell.Tab.0.right" timestamp="1680464093024">
+    <state width="1515" height="170" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1680465682388" />
+    <state width="1515" height="170" key="GridCell.Tab.0.right" timestamp="1680465682388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="141" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1680464093024" />
+    <state width="1515" height="170" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1680465682388" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1680192625103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -291,10 +245,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1680119471602" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1680465350647">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1680465403950">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1680465350647" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1680465403950" />
     <state x="548" y="56" width="740" height="606" key="find.popup" timestamp="1680461873398">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
